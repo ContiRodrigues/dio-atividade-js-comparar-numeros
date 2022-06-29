@@ -11,10 +11,10 @@ Agradeço a Deus, a TQI e a DIO por mais essa atividade concluída.
 
 ## :computer: Sobre a Atividade
 
-[✔️] - Crie uma função que recebe dois números como parâmetros.
-[✔️] - Confira se os números são iguais.
-[✔️] - Confira se a soma dos números é maior que 10 ou menor que 20.
-[✔️] - Retorne uma string dizendo "Os números `num1` e `num2` não/são iguais. Sua soma é `soma`, que é `maior/menor` que 10 e `maior/menor` que 20".
+- [✔️] - Crie uma função que recebe dois números como parâmetros.
+- [✔️] - Confira se os números são iguais.
+- [✔️] - Confira se a soma dos números é maior que 10 ou menor que 20.
+- [✔️] - Retorne uma string dizendo "Os números `num1` e `num2` não/são iguais. Sua soma é `soma`, que é `maior/menor` que 10 e `maior/menor` que 20".
 
 Exemplo:
 
@@ -24,7 +24,7 @@ Output: Os números 1 e 2 não são iguais. Sua soma é 3, que é menor que 10 e
 
 ```
 
-[✔️] - Foi feita uma adequação para atender ao contexto da soma 5 + 5 e 10 + 10, que não é nem `menor que` nem `maior que` a 10 e a 20, mas sim `igual a`.
+- [✔️] - Foi feita uma adequação para atender ao contexto da soma 5 + 5 e 10 + 10, que não é nem `menor que` nem `maior que` a 10 e a 20, mas sim `igual a`.
 
 Obs.: a função funciona normalmente com números negativos e também com o valor 0.
 
